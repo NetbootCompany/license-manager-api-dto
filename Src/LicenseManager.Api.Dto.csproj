@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Authors>Thomas ILLIET</Authors>
     <Company>NetbootCompany</Company>
-    <PackageId>Netboot.LicenceManager.Api.Dto</PackageId>
+    <PackageId>Netboot.LicenseManager.Api.Dto</PackageId>
     <PackageDescription>Data transfer objects for Licence management API.</PackageDescription>
     <IsPackable>true</IsPackable>
     <RepositoryType>git</RepositoryType>
@@ -11,7 +11,7 @@
     <PackageTags>utility library license dotnet</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/NetbootCompany</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/NetbootCompany/licence-manager-api-dto</RepositoryUrl>
+    <RepositoryUrl>https://github.com/NetbootCompany/license-manager-api-dto</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <TargetFrameworks>net6.0</TargetFrameworks>
     <Nullable>enable</Nullable>
