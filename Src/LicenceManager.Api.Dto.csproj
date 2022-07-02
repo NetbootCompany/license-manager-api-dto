@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Authors>Thomas ILLIET</Authors>
     <Company>NetbootCompany</Company>
-    <PackageId>Netboot.LicenceManager</PackageId>
+    <PackageId>Netboot.LicenceManager.Api.Dto</PackageId>
     <PackageDescription>Data transfer objects for Licence management API.</PackageDescription>
     <IsPackable>true</IsPackable>
     <RepositoryType>git</RepositoryType>
