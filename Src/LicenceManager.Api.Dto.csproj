@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Authors>Thomas ILLIET</Authors>
+    <Company>NetbootCompany</Company>
+    <PackageId>Netboot.LicenceManager</PackageId>
+    <PackageDescription>Data transfer objects for Licence management API.</PackageDescription>
+    <IsPackable>true</IsPackable>
+    <RepositoryType>git</RepositoryType>
+    <Copyright>Thomas ILLIET, NetbootCompany</Copyright>
+    <PackageTags>utility library license dotnet</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/NetbootCompany</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/NetbootCompany/licence-manager-api-dto</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <TargetFrameworks>net6.0</TargetFrameworks>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+      <Visible>false</Visible>
+    </None>
+  </ItemGroup>
+
+</Project>
