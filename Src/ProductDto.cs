@@ -25,4 +25,5 @@ public class ProductDto
     public string Description { get; set; }
     public string Company { get; set; }
     public OrganizationDto Organization { get; set; }
+    public DateTimeOffset CreatedUtc { get; set; }
 }
